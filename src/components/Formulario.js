@@ -37,6 +37,7 @@ const Formulario = () => {
 	// Enviar el form
 	// e => event
 
+
 	const submitCita = e => {
 		e.preventDefault();
 
